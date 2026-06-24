@@ -1,2 +1,3 @@
 # Sistema-de-uma-biblioteca
-Primeiro projeto do segundo trimestre, primeiro periodo.
+Segundo projeto do segundo trimestre, primeiro periodo.
+Projeto academico desenvolvido para simular situações do mercado de trabalho.
